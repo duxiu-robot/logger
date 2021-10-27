@@ -1,4 +1,4 @@
-module github.com/techxmind/logger
+module github.com/duxiu-robot/logger
 
 go 1.15
 
